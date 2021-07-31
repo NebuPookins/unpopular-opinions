@@ -1,14 +1,34 @@
 # Unpopular Opinions
 
-This is a list of works of media where the general consensus is that it is very good or very bad, but for which I disagree. For every piece of media listed here, I have personally consumed the media (i.e. read the book, watched the movie, played the videogame, etc.) and have formed my own opinion of it.
+This is a list of works of media where the general consensus is that it is very good or very bad, but for which I disagree. For every piece of media listed here, I have personally consumed the media (i.e. read the book, watched the movie, played the video game, etc.) and have formed my own opinion of it.
 
 
-## Idiosyncracities about my rating scale
+## My idiosyncracities...
+
+### ... about the terms "reviewing" and "critiquing"
 
 <details>
   <summary>[expand/collapse]</summary>
 
-Many reviewers online use a very skewed rating system. Some video game review sites are notorious for having "8 out of 10" be the worst score they've give nout and "9.5 out of 10" be their highest, for example. I think review scores are more useful if they are normally distributed. I'm assuming axiomatically that the quality of the works of media out there is distributed normally, and so it would be "good" if the review scores were also distributed the same way so as to reflect the quality of the work as closely as possible.
+I consider "reviewing" and "critiquing" to have distinct meanings, and so I see the "movie reviewers" and "movie critics" (or video game reviewers and video game critics, or book reviewers and book critics, etc.) as having different roles. That said, I acknowledge that many people use the terms almost interchangeably. I also acknowledge that there's often a lot of overlap between the two (a review of a game will often contain a few critiques of it, though I wouldn't expect a critique of a game to contain much review), which would further muddy the water.
+
+The primary difference between the two terms is who the intended audience is. A reviewer of a piece of media is writing primarily to the people who would consume the piece of media; a critic of a piece of media is writing primarily to the author of the work of media, and to any other people who might want to author similar media.
+
+In other words, when you read a review, you would expect some sort of quantitative rating (e.g. "3 out of 5 stars"), and a recommendation on whether or not you should bother consuming the piece of media (e.g. "strongly recommend if you're a fan of scifi"). When you read a critique, you would expect a technical analysis of the piece of media (e.g. "wrapping the primary story in a framing story was a good way to introduce the suspicion of an unreliable narrator to the audience"), what worked and what didn't work (e.g. "the unusually high depth of field was likely an attempt to introduce a sense of unease, but ultimately made it too difficult to control the character"), and recommendations for any future works (e.g. "it would be interesting to see more novels experiment with the 2nd person perspective and what can be done in that medium").
+
+Because critiques often contain technical jargon, there's this sense that critics are "more elite" than reviewers. And so a lot of people who are actually reviewers would prefer to label themselves as critics. Roger Ebert, for example, called himself a "Movie Critic", but he primarily wrote reviews.
+
+As I mentioned above, a review often contains elements of critiques in them. One cynical reason for this is because again, the reviewer wants to sound like a critic because the "critic" label is seen as more prestigious. But more benignly, a review will often contain critiques because the reviewer will often want to justify *why* they think a piece of media is good or bad, and they will often want to give justifications that are objective rather than subjective in nature. For example, "the scene had bad lighting" sounds like it might just be, like, your opinion, man, unless you can cite the industry consensus on what are known to be good lighting practices and bad lighting practices, in which case you're often dipping into technical jargon.
+
+So just to set the record straight, this page consists of **reviews**, but like with most reviews, I will slip in the occasional critique here and there.
+</details>
+
+### ... about my rating scale
+
+<details>
+  <summary>[expand/collapse]</summary>
+
+Many reviewers online use a very skewed rating system. Some video game review sites are notorious for having "8 out of 10" be the worst score they've given out and "9.5 out of 10" be their highest, for example. I think review scores are more useful if they are normally distributed. I'm assuming axiomatically that the quality of the works of media out there is distributed normally, and so it would be "good" if the review scores were also distributed the same way so as to reflect the quality of the work as closely as possible.
 
 Internally, I like to review things in terms of standard deviations, where a score of 0 means an average piece of work, a score of -1 means a somewhat below average piece of work, a score of -2 means a significantly below average piece of work, a score of 1 means a somewhat above average piece of work, and a score of 2 means a significantly above average piece of work. I find that if I just directly report these scores, people misunderstand what it means (for example, they might think a score of 0 means that I think the work is bad). So instead, I translate this score into a 1 to 5 scale, by basically mapping -2 to 1, -1 to 2, 0 to 3, 1 to 4 and 2 to 5. I.e. the score I report on this site is (essentially) their standard deviation plus three.
   
