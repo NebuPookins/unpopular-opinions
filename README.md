@@ -17,6 +17,16 @@ Works of media that are below or above 2 standard deviations from the mean are r
 Based on [the analysis performed by a data scientist](https://www.freecodecamp.org/news/whose-reviews-should-you-trust-imdb-rotten-tomatoes-metacritic-or-fandango-7d1010c6cf19/), IMDB is slightly skewed towards positive, Fandango is strongly skewed towards positive, MetaCritic is pretty normally distributed, and Rotten Tomatoes is uniformly distributed. Since my rating system is normally distributed, I will report scores from MetaCritic when reporting what the general consensus opinion is on a work so that the two rating systems are most easily comparable.
 </details>
 
+## Games
+
+<details>
+  <summary><b>Bioshock</b>. 2007. Consensus: 5/5; My opinion: 2.5/5</summary>
+  
+  I found this game to be pretty mediocre. Not bad per say, but definitely not deserving of the praise it seems to get. The graphics were below average for 2007 (which also had S.T.A.L.K.E.R.: Shadow of Chernobyl, Portal, Half-Life 2: Episode Two, Crysis). The gameplay was pretty much bog standard except for the "innovation" of the resurrection pods that let you almost instantly get back into the action -- but if anything, I felt like that removed a lot of the tension in the game, and encouraged a playstyle where you just erode away at the enemies, instead of having to think tactically how to approach each encounter.
+  
+  I admit that I did not foresee the "twist ending", but I did not find it particularly interesting either. To be fair, not many games tackled the topic before Bioshock. Metal Gear Solid 2 from 2001 did (and was just generally more fun to play). But a couple of games have tackled the topic since and done a better job of it (and were also more fun), such as The Stanley Parable from 2013.
+</details>
+
 
 
 ## Movies
